@@ -13,4 +13,4 @@ Output obtained
 
 
 
-![output](flower.jpg.jpg)
+![output](car.jpg)
