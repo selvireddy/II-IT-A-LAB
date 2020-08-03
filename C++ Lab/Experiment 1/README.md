@@ -12,4 +12,4 @@ To Display the names and roll number of students
 Output obtained
 
 
-![output]{car.jpg}
+![output](car.jpg)
